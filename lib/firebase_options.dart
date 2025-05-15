@@ -50,21 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA4Qcg6X69rmF9YX7dPb1YjsnJ9sB9nRnA',
-    appId: '1:971083609002:android:8d22b0789ca9343c35f1d3',
-    messagingSenderId: '971083609002',
-    projectId: 'doozy-12f6e',
-    storageBucket: 'doozy-12f6e.firebasestorage.app',
+    apiKey: 'AIzaSyCAgGGm7fsh6ZuH7vyg7Zf6pKmGSLDZ88I',
+    appId: '1:346124764567:android:f403c23ceec59e5fadb0d2',
+    messagingSenderId: '346124764567',
+    projectId: 'todoo-f0cfe',
+    storageBucket: 'todoo-f0cfe.firebasestorage.app',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAQ8evl6mUoJ7IeOCBePHB6Q48UY0S5NKs',
-    appId: '1:971083609002:web:8e097b91ef5b3e9035f1d3',
-    messagingSenderId: '971083609002',
-    projectId: 'doozy-12f6e',
-    authDomain: 'doozy-12f6e.firebaseapp.com',
-    storageBucket: 'doozy-12f6e.firebasestorage.app',
-    measurementId: 'G-47N01031GZ',
+    apiKey: 'AIzaSyClmQgq8tKUYApKqmb420GDbt14229osvE',
+    appId: '1:346124764567:web:100ce6fc9761a2d4adb0d2',
+    messagingSenderId: '346124764567',
+    projectId: 'todoo-f0cfe',
+    authDomain: 'todoo-f0cfe.firebaseapp.com',
+    storageBucket: 'todoo-f0cfe.firebasestorage.app',
+    measurementId: 'G-DVCDFQSMWG',
   );
 
 }

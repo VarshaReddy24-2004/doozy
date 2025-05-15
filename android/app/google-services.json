@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "971083609002",
-    "project_id": "doozy-12f6e",
-    "storage_bucket": "doozy-12f6e.firebasestorage.app"
+    "project_number": "346124764567",
+    "project_id": "todoo-f0cfe",
+    "storage_bucket": "todoo-f0cfe.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:971083609002:android:8d22b0789ca9343c35f1d3",
+        "mobilesdk_app_id": "1:346124764567:android:f403c23ceec59e5fadb0d2",
         "android_client_info": {
           "package_name": "com.example.doozy"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA4Qcg6X69rmF9YX7dPb1YjsnJ9sB9nRnA"
+          "current_key": "AIzaSyCAgGGm7fsh6ZuH7vyg7Zf6pKmGSLDZ88I"
         }
       ],
       "services": {
